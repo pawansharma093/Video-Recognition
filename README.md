@@ -1,6 +1,9 @@
 # Video-Recognition
 CNN-RNN Model for Video Recognition
 
+For the Dataset kindly use the below link
+https://drive.google.com/uc?id=1ehyrYBQ5rbQQe6yL4XbLWe3FMvuVUGiL
+
 
 The gestures are continuously monitored by the webcam mounted on the TV. Each gesture corresponds to a specific command:
 
